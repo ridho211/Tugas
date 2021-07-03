@@ -105,6 +105,6 @@ body{
  </table>
  </form>
  </center>
-  <div class="d"> <p>Reprogramed by Eri yulian hidayat 2021</p> </div>
+  <div class="d"> <p>Ridho ikhram</p> </div>
 </body>
 </html>
