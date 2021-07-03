@@ -95,7 +95,7 @@ document.location.href='input.php';
  </table>
  </form>
 </center>
-   <div class="d"> <p>Reprogramed by Eri yulian hidayat 2021</p> </div>
+   <div class="d"> <p>Ridho Ikram</p> </div>
      <div class="r"><?php date_default_timezone_set("Asia/Jakarta");
 echo date("d-M-Y H:i") ; ?></div>
  </body>
