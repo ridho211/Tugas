@@ -79,7 +79,7 @@ body{
  </table>
   <div class="r"><?php date_default_timezone_set("Asia/Jakarta");
 echo date("d-M-Y H:i") ; ?></div>
- <div class="d"> <p>Reprogramed by Eri yulian hidayat 2021</p> </div>
+ <div class="d"> <p>Ridho ikhram</p> </div>
  </body>
  </html>
 
