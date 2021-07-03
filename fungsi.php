@@ -465,7 +465,3 @@ $cek=$koneksi->query($ubah2);
 
 
 
-<?php  
-#dibuat oleh eri yulian hidayat
-
-?>
